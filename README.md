@@ -1,8 +1,6 @@
 # Margin-Openset
 This is the implementation of [Attract or Distract: Explore the Margin of Open Set](https://openaccess.thecvf.com/content_ICCV_2019/html/Feng_Attract_or_Distract_Exploit_the_Margin_of_Open_Set_ICCV_2019_paper.html) (ICCV 2019). 
-<img src="demo/first-fig.jpg">
 
-### Framework
 <img src="demo/framework.jpg">
 
 ***
